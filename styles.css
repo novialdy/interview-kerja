@@ -1,0 +1,47 @@
+element.style {
+}
+body {
+    padding-top: 10px;
+}
+body {
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: .1px;
+}
+body {
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    line-height: 1.846;
+    color: #666666;
+    background-color: #ffffff;
+}
+body {
+    margin: 35;
+}
+
+ video {
+            max-width: 100%;
+            height: auto;
+        }
+
+
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+ .header {
+            display: flex;
+            align-items: center;
+        }
+        .header img {
+            margin-right: 10px; /* Memberikan sedikit jarak antara logo dan teks */
+        }
+        .header h3 {
+            font-size: 50px;
+            margin: 0; /* Menghapus margin default dari elemen h3 */
+        }
